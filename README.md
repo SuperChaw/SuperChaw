@@ -1,9 +1,7 @@
-### Hi there 👋
+### 👋 Hello Guys 🖖
 
-<!--
-**SuperChaw/SuperChaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 This is SuperChaw 🤞
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Chaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperChaw&show_icons=true&theme=dracula)
+
+# **[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperChaw&layout=compact)](https://github.com/SuperChaw/github-readme-stats)**
+
+![](https://img.shields.io/badge/python-3.8-orange?style=for-the-badge&logo=python&logoColor=orange)
+
